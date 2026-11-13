@@ -1,6 +1,6 @@
 # LinearAlgebra
 
-Repositório de materiais de **Álgebra Linear** para estudo, mantido por um estudante da **EMAp (FGV), turma de 2026**. Aqui estão alguns materiais extra com tópicos cruciais do cuso.
+Repositório de materiais de **Álgebra Linear** para estudo, mantido por um estudante da **EMAp (FGV), turma de 2026**. Aqui estão alguns materiais extra com tópicos cruciais do curso.
 > Material de estudante: pode conter erros. Se encontrar algum, abra uma *issue* ou um *pull request*.
 
 ## Conteúdo
